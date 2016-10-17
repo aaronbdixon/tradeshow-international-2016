@@ -1,0 +1,26 @@
+[
+  {
+    'src': 'img/slide-1.jpg',
+    'touchpoints': [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    'src': 'img/slide-2.jpg',
+    'touchpoints': [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    'src': 'img/slide-3.jpg',
+    'touchpoints': [
+      {},
+      {},
+      {}
+    ]
+  }
+];

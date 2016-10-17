@@ -1,0 +1,24 @@
+{
+  "name": "tradeshow-international-2016",
+  "version": "1.0.0",
+  "description": "Touch display for the international tradeshow in New Orleans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronbdixon/tradeshow-international-2016.git"
+  },
+  "author": "Aaron Dixon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronbdixon/tradeshow-international-2016/issues"
+  },
+  "homepage": "https://github.com/aaronbdixon/tradeshow-international-2016#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "fitvids": "^2.0.0",
+    "jquery": "^3.1.1"
+  }
+}
