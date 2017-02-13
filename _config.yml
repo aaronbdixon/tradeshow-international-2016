@@ -1,1 +1,2 @@
 exclude: []
+gems: ['jekyll-github-metadata']
