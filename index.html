@@ -53,7 +53,11 @@ title: The Great American Waterfall Co.
         </div>
       </div>
       <div class="item">
-        <video src="img/rain-fall.mp4" preload="auto" loop></video>
+        {% if jekyll.environment == "production" %}
+        <video src="https://github.com/aaronbdixon/tradeshow-international-2016/blob/gh-pages/video/Rain-Fall.mp4?raw=true" preload="auto" loop></video>
+        {% else %}
+        <video src="video/rain-fall.mp4" preload="auto" loop></video>
+        {% endif %}
         <div class="carousel-caption">
           <a href="#" class="more-info">
             <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
